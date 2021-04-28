@@ -1,0 +1,21 @@
+Comandos Git:
+git config --global -e  
+        Responsável pelas 
+        opções de configuração do GIT, utilizando no terminal o comando
+git status
+        Verificar como está o projeto
+
+git add [nome do arquivo]
+git commit -m “[Mensagem Descritiva]”
+git clone <https://nome-do-link>
+git branch
+git push -u <remote> <nome-da-branch>
+git branch or 
+git branch --list
+git add -A Adiciona todos arquivos de uma vez
+git push adiciona os arquivos ao repositorio
+git pull atualiza os arquivos no repositorio local
+git revert [reverte as commit]
+git merge [Mesclar as Branch]
+
+git aFonte:https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_Push
