@@ -1,0 +1,2 @@
+//meu primeiro comentário é aqui, que beleza!
+/*A melhor coisa é já escrever Hello word e se livrar dessa maldição e acabar não concluindo seus estudos */
